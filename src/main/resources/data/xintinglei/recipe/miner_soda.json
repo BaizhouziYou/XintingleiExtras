@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:glow_berries",
+    "minecraft:iron_nugget",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "xintinglei:miner_soda",
+    "count": 1
+  }
+}

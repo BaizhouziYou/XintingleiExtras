@@ -1,0 +1,29 @@
+# Local build and IDE state
+.gradle/
+build/
+out/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Private runtime / isolated server directories
+/run/
+/smoke*/
+/recipe-smoke/
+/logs/
+*.log
+*.secret
+.env
+.env.*
+
+# Local art experiments and generators requiring the parent workspace
+/art/
+/tools/
+
+# Do not publish binary distributions or resource packs in source control
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.mcpack
+*.zip

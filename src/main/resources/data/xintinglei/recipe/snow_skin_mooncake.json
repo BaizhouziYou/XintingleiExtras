@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": ["minecraft:wheat", "minecraft:sugar", "minecraft:milk_bucket"],
+  "result": {"id": "xintinglei:snow_skin_mooncake", "count": 1}
+}

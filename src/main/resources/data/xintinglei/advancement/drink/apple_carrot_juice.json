@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:apple_carrot_juice"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/apple_carrot_juice"
+  }
+}

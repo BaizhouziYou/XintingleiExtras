@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "xintinglei:berry_juice",
+    "count": 1
+  }
+}

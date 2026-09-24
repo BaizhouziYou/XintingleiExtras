@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:blaze_brew"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/blaze_brew"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "xintinglei",
+  "version": "${version}",
+  "name": "Xintinglei Extras",
+  "description": "Xintinglei Extras adds drinks, 3D Mid-Autumn mooncakes, and more everyday delights.",
+  "authors": ["BaizhouziYou"],
+  "license": "MIT",
+  "contact": {
+    "homepage": "https://github.com/BaizhouziYou"
+  },
+  "icon": "assets/xintinglei/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["cn.xintinglei.content.XintingleiExtras"],
+    "jade": ["cn.xintinglei.content.MooncakeJadePlugin"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}

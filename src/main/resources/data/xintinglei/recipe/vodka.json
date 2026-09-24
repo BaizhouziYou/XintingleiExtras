@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potato",
+    "minecraft:potato",
+    "minecraft:potato",
+    "minecraft:potato",
+    "minecraft:glass_bottle",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "xintinglei:vodka",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:mega_boba_tea"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/mega_boba_tea"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:redstone",
+    "minecraft:sugar",
+    "minecraft:honey_bottle"
+  ],
+  "result": {
+    "id": "xintinglei:energy_drink",
+    "count": 1
+  }
+}

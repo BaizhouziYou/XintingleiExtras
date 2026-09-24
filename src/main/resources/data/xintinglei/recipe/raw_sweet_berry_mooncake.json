@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "xintinglei:raw_mooncake",
+    "minecraft:cooked_porkchop",
+    "minecraft:honey_bottle"
+  ],
+  "result": {
+    "id": "xintinglei:raw_sweet_berry_mooncake",
+    "count": 1
+  }
+}

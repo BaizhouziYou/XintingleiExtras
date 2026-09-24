@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:apple",
+    "minecraft:carrot",
+    "minecraft:potion",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "xintinglei:apple_carrot_juice",
+    "count": 1
+  }
+}

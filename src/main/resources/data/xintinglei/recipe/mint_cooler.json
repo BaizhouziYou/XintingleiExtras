@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:sugar",
+    "minecraft:blue_ice",
+    "minecraft:small_dripleaf"
+  ],
+  "result": {
+    "id": "xintinglei:mint_cooler",
+    "count": 1
+  }
+}

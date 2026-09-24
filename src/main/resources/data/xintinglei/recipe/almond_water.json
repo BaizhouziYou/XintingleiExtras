@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:ghast_tear",
+    "minecraft:milk_bucket",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "xintinglei:almond_water",
+    "count": 1
+  }
+}

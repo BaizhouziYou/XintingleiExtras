@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:ocean_tonic"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/ocean_tonic"
+  }
+}

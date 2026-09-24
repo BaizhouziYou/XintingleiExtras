@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:blaze_powder",
+    "minecraft:magma_cream",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "xintinglei:blaze_brew",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:mint_cooler"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/mint_cooler"
+  }
+}

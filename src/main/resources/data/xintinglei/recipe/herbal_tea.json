@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:fern",
+    "minecraft:honey_bottle"
+  ],
+  "result": {
+    "id": "xintinglei:herbal_tea",
+    "count": 1
+  }
+}

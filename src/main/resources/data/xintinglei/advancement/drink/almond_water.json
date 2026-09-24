@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:almond_water"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/almond_water"
+  }
+}

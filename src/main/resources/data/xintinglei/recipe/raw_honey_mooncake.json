@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "xintinglei:raw_mooncake",
+    "minecraft:egg",
+    "minecraft:egg",
+    "minecraft:milk_bucket"
+  ],
+  "result": {
+    "id": "xintinglei:raw_honey_mooncake",
+    "count": 1
+  }
+}

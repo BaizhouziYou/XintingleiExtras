@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potion",
+    "minecraft:prismarine_crystals",
+    "minecraft:kelp",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "xintinglei:ocean_tonic",
+    "count": 1
+  }
+}

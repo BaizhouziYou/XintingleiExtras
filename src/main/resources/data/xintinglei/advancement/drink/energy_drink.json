@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:energy_drink"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/energy_drink"
+  }
+}

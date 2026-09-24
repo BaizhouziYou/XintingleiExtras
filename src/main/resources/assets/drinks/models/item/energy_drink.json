@@ -1,0 +1,676 @@
+{
+    "parent":  "minecraft:block/block",
+    "ambientocclusion":  false,
+    "gui_light":  "front",
+    "textures":  {
+                     "atlas":  "drinks:item/energy_drink",
+                     "particle":  "drinks:item/energy_drink"
+                 },
+    "display":  {
+                    "gui":  {
+                                "rotation":  [
+                                                 8,
+                                                 200,
+                                                 0
+                                             ],
+                                "translation":  [
+                                                    0,
+                                                    0,
+                                                    0
+                                                ],
+                                "scale":  [
+                                              0.96,
+                                              0.96,
+                                              0.96
+                                          ]
+                            },
+                    "ground":  {
+                                   "rotation":  [
+                                                    18,
+                                                    0,
+                                                    0
+                                                ],
+                                   "translation":  [
+                                                       0,
+                                                       2.2,
+                                                       0
+                                                   ],
+                                   "scale":  [
+                                                 0.46,
+                                                 0.46,
+                                                 0.46
+                                             ]
+                               },
+                    "fixed":  {
+                                  "rotation":  [
+                                                   0,
+                                                   180,
+                                                   0
+                                               ],
+                                  "translation":  [
+                                                      0,
+                                                      0,
+                                                      0
+                                                  ],
+                                  "scale":  [
+                                                0.65,
+                                                0.65,
+                                                0.65
+                                            ]
+                              },
+                    "thirdperson_righthand":  {
+                                                  "rotation":  [
+                                                                   75,
+                                                                   30,
+                                                                   0
+                                                               ],
+                                                  "translation":  [
+                                                                      0,
+                                                                      2.5,
+                                                                      0
+                                                                  ],
+                                                  "scale":  [
+                                                                0.55,
+                                                                0.55,
+                                                                0.55
+                                                            ]
+                                              },
+                    "thirdperson_lefthand":  {
+                                                 "rotation":  [
+                                                                  75,
+                                                                  330,
+                                                                  0
+                                                              ],
+                                                 "translation":  [
+                                                                     0,
+                                                                     2.5,
+                                                                     0
+                                                                 ],
+                                                 "scale":  [
+                                                               0.55,
+                                                               0.55,
+                                                               0.55
+                                                           ]
+                                             },
+                    "firstperson_righthand":  {
+                                                  "rotation":  [
+                                                                   0,
+                                                                   25,
+                                                                   0
+                                                               ],
+                                                  "translation":  [
+                                                                      0,
+                                                                      2,
+                                                                      0
+                                                                  ],
+                                                  "scale":  [
+                                                                0.65,
+                                                                0.65,
+                                                                0.65
+                                                            ]
+                                              },
+                    "firstperson_lefthand":  {
+                                                 "rotation":  [
+                                                                  0,
+                                                                  335,
+                                                                  0
+                                                              ],
+                                                 "translation":  [
+                                                                     0,
+                                                                     2,
+                                                                     0
+                                                                 ],
+                                                 "scale":  [
+                                                               0.65,
+                                                               0.65,
+                                                               0.65
+                                                           ]
+                                             }
+                },
+    "elements":  [
+                     {
+                         "from":  [
+                                      5,
+                                      1.25,
+                                      5.975
+                                  ],
+                         "to":  [
+                                    11,
+                                    14.75,
+                                    10.025
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                4,
+                                                                8,
+                                                                12
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               8,
+                                                               8,
+                                                               12,
+                                                               12
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                4,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               4,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             0,
+                                                             16,
+                                                             4
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      4.5,
+                                      2,
+                                      6.38
+                                  ],
+                         "to":  [
+                                    5.25,
+                                    14,
+                                    9.62
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                12,
+                                                                0,
+                                                                16,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               12,
+                                                               0,
+                                                               16,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                12,
+                                                                0,
+                                                                16,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               12,
+                                                               0,
+                                                               16,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             0,
+                                                             16,
+                                                             4
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      10.75,
+                                      2,
+                                      6.38
+                                  ],
+                         "to":  [
+                                    11.5,
+                                    14,
+                                    9.62
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                8,
+                                                                8,
+                                                                12,
+                                                                12
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               8,
+                                                               8,
+                                                               12,
+                                                               12
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                8,
+                                                                8,
+                                                                12,
+                                                                12
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               8,
+                                                               8,
+                                                               12,
+                                                               12
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             0,
+                                                             16,
+                                                             4
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      5.25,
+                                      14.75,
+                                      6.178
+                                  ],
+                         "to":  [
+                                    10.75,
+                                    15.1,
+                                    9.822
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                4,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               8,
+                                                               8,
+                                                               12,
+                                                               12
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                4,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               4,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             0,
+                                                             16,
+                                                             4
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      5,
+                                      15.1,
+                                      6.042
+                                  ],
+                         "to":  [
+                                    11,
+                                    15.55,
+                                    9.958
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                12,
+                                                                4,
+                                                                16,
+                                                                8
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               12,
+                                                               4,
+                                                               16,
+                                                               8
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                12,
+                                                                4,
+                                                                16,
+                                                                8
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               12,
+                                                               4,
+                                                               16,
+                                                               8
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             4,
+                                                             16,
+                                                             8
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               12,
+                                                               4,
+                                                               16,
+                                                               8
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      5.25,
+                                      0.9,
+                                      6.178
+                                  ],
+                         "to":  [
+                                    10.75,
+                                    1.25,
+                                    9.822
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                4,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               8,
+                                                               8,
+                                                               12,
+                                                               12
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                0,
+                                                                0,
+                                                                4,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               0,
+                                                               0,
+                                                               4,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             0,
+                                                             16,
+                                                             4
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      5,
+                                      0.45,
+                                      6.042
+                                  ],
+                         "to":  [
+                                    11,
+                                    0.9,
+                                    9.958
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                12,
+                                                                4,
+                                                                16,
+                                                                8
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               12,
+                                                               4,
+                                                               16,
+                                                               8
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                12,
+                                                                4,
+                                                                16,
+                                                                8
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               12,
+                                                               4,
+                                                               16,
+                                                               8
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             4,
+                                                             16,
+                                                             8
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               12,
+                                                               4,
+                                                               16,
+                                                               8
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      7.1,
+                                      15.55,
+                                      7.19
+                                  ],
+                         "to":  [
+                                    9.4,
+                                    15.9,
+                                    8.81
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                4,
+                                                                0,
+                                                                8,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "east":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                4,
+                                                                0,
+                                                                8,
+                                                                4
+                                                            ],
+                                                     "texture":  "#atlas"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                },
+                                       "up":  {
+                                                  "uv":  [
+                                                             12,
+                                                             0,
+                                                             16,
+                                                             4
+                                                         ],
+                                                  "texture":  "#atlas"
+                                              },
+                                       "down":  {
+                                                    "uv":  [
+                                                               4,
+                                                               0,
+                                                               8,
+                                                               4
+                                                           ],
+                                                    "texture":  "#atlas"
+                                                }
+                                   }
+                     }
+                 ]
+}

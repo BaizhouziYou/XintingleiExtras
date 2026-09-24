@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:golden_apple",
+    "minecraft:pufferfish",
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "minecraft:cactus",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "xintinglei:monster_green",
+    "count": 1
+  }
+}

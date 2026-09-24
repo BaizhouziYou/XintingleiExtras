@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_milk": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": "minecraft:milk_bucket"}]}},
+    "has_recipe": {"trigger": "minecraft:recipe_unlocked", "conditions": {"recipe": "xintinglei:snow_skin_mooncake"}}
+  },
+  "requirements": [["has_milk", "has_recipe"]],
+  "rewards": {"recipes": ["xintinglei:snow_skin_mooncake"]}
+}

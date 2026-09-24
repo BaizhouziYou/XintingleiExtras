@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:monster_white"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/monster_white"
+  }
+}

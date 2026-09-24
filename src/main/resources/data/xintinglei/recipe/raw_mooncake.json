@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    " E ",
+    " S ",
+    "WWW"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "S": "minecraft:sugar",
+    "W": "minecraft:wheat"
+  },
+  "result": {
+    "id": "xintinglei:raw_mooncake",
+    "count": 1
+  }
+}

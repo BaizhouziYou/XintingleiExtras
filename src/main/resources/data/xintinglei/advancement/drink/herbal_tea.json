@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "xintinglei:herbal_tea"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "xintinglei:drink/herbal_tea"
+  }
+}

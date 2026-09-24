@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:milk_bucket",
+    "minecraft:wheat",
+    "minecraft:wheat",
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "minecraft:honey_bottle"
+  ],
+  "result": {
+    "id": "xintinglei:mega_boba_tea",
+    "count": 1
+  }
+}
